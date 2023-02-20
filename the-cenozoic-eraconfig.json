@@ -1,0 +1,15 @@
+[
+    {
+        "DisplayName": "MaxPlayers",
+        "Category": "Cenozoic Settings",
+        "Description": "Sets max players for cenozoic server",
+        "Keywords": "MaxPlayers",
+        "FieldName": "MaxPlayers",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "MaxPlayers",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "75",
+        "EnumValues": {}
+    }
+]
